@@ -97,7 +97,7 @@ Use Slicers and Filters to interact with the dashboard and analyze different bus
 
 # Authors
 
-**Sonu Stories**
+**Dhivya Mohan**
 
 Data Analyst Project
 
